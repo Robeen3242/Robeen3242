@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Robin
 
-<!--
-**Robeen3242/Robeen3242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student at University of Alberta  
+💡 Interested in Machine Learning, AI systems, and full-stack development  
+🚀 Currently building a student scheduler with ML-based burnout prediction  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: Python, R, SQL, C/C++, Java
+- ML: scikit-learn, PyTorch, NumPy
+- Web: React, Node.js (learning)
+- Tools: Git, Jupyter, Azure (learning)
+
+---
+
+## 🔥 Featured Projects
+
+### 📅 Student Scheduler (WIP)
+- ML-based scheduler that adapts to burnout, stress, and workload
+- Uses user input + scheduling constraints to optimize study planning
+- 
+
+### 📊 [Your ML Project]
+- Brief 1–2 line explanation
+- What problem it solves
+- [https://github.com/Robeen3242/Student-Scheduler]
+
+---
+
+## 📈 Currently Learning
+- Full-stack development (React + backend)
+- Deploying ML models
+- Cloud (Azure)
+
+---
+
+## 📫 Contact
+- LinkedIn: [www.linkedin.com/in/robin-liu-22ba9a310]
+- Email: [robin9@ualberta.ca]
