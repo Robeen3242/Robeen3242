@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 - Languages: Python, R, SQL, C/C++, Java
 - ML: scikit-learn, PyTorch, NumPy
-- Web: React, Node.js (learning)
+- Web: React (learning), Node.js (learning)
 - Tools: Git, Jupyter, Azure (learning)
 
 ---
