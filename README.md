@@ -19,7 +19,6 @@
 ### 📅 Student Scheduler (WIP)
 - ML-based scheduler that adapts to burnout, stress, and workload
 - Uses user input + scheduling constraints to optimize study planning
-- 
 
 ### 📊 [Group Equivariant Convolution Neural Network Research]
 Contributed to a research project focused on applying machine learning techniques to analyze and visualize complex system behavior.
