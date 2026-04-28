@@ -20,12 +20,12 @@
 - ML-based scheduler that adapts to burnout, stress, and workload
 - Uses user input + scheduling constraints to optimize study planning
 
-### 📊 [Group Equivariant Convolution Neural Network Research]
+### 📊 Group Equivariant Convolution Neural Network Research
 Contributed to a research project focused on applying machine learning techniques to analyze and visualize complex system behavior.
 
 - Built data processing pipelines and experimented with ML models to uncover patterns in engineering data
 - Created heatmap-based visualizations to interpret model outputs and feature relationships
-- Compared different approaches to improve model performance and interpretability
+- Investigated how different approaches affect model performance and reliability
 - Collaborated with a team on an ongoing research paper documenting findings and insights
 
 This experience helped bridge the gap between theoretical machine learning and real-world applications, with a focus on interpretability and practical impact.
