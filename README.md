@@ -36,5 +36,5 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: [www.linkedin.com/in/robin-liu-22ba9a310]
-- Email: [robin9@ualberta.ca]
+- LinkedIn: www.linkedin.com/in/robin-liu-22ba9a310
+- Email: robin9@ualberta.ca
