@@ -9,16 +9,16 @@
 # 🛠️ Tech Stack
 
 ## 💻 Languages
-🐍 Python • 🗄️ SQL • 📊 R • ⚙️ C/C++ • ☕ Java • 🔷 TypeScript
+Python • SQL • R • C/C++ • Java • TypeScript
 
 ## 🤖 Machine Learning / Data
-🔥 PyTorch • 📈 scikit-learn • 🔢 NumPy • 🐼 Pandas • 📓 Jupyter
+PyTorch • scikit-learn • NumPy • Pandas • Jupyter
 
 ## 🌐 Web Development
-⚛️ React • ⚡ Vite • 🚀 FastAPI • 🟩 Node.js
+React • Vite • FastAPI • Node.js
 
 ## 🧰 Tools
-🔧 Git • 🐙 GitHub • ☁️ Azure • 🐧 Linux
+Git • GitHub • Azure • Linux
 
 ---
 
@@ -29,10 +29,10 @@
 ### 🧠 [ECE-447 Research Project](https://github.com/Robeen3242/ECE-447-Research)
 Research project focused on Group Equivariant Convolutional Neural Networks (GCNNs), CNNs, and geometric deep learning techniques.
 
-- 🧪 Contributed to experimentation and implementation of CNN, GCNN, and GCN architectures
-- 📊 Developed visualization tools for interpreting learned filters and model behavior
-- ⚙️ Proposed and tested architectural and training modifications to improve performance
-- 🤝 Collaborated on research workflows, experimentation strategy, and analysis for an ongoing paper
+- Contributed to experimentation and implementation of CNN, GCNN, and GCN architectures
+- Developed visualization tools for interpreting learned filters and model behavior
+- Proposed and tested architectural and training modifications to improve performance
+- Collaborated on research workflows, experimentation strategy, and analysis for an ongoing paper
 
 **Tech:** Python, PyTorch, Deep Learning, Computer Vision
 
