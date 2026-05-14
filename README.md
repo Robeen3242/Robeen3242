@@ -1,44 +1,91 @@
 # Hi, I'm Robin
 
-🎓 Engineering student at University of Alberta  
-💡 Interested in Machine Learning, AI systems, and full-stack development  
-🚀 Currently building a student scheduler with ML-based burnout prediction  
+🎓 Engineering student at the University of Alberta  
+💡 Interested in machine learning, AI systems, data analysis, and full-stack development  
+🚀 Currently building a student productivity platform focused on scheduling, workload management, and burnout tracking
 
 ---
 
-## 🛠️ Tech Stack
-- Languages: Python, R, SQL, C/C++, Java
-- ML: scikit-learn, PyTorch, NumPy
-- Web: React (learning), Node.js (learning)
-- Tools: Git, Jupyter, Azure (learning)
+# 🛠️ Tech Stack
+
+### Languages
+Python • SQL • R • C/C++ • Java • TypeScript
+
+### Machine Learning / Data
+PyTorch • scikit-learn • NumPy • Pandas • Jupyter
+
+### Web Development
+React • Vite • FastAPI • Node.js
+
+### Tools
+Git • GitHub • Azure • Linux
 
 ---
 
-## 🔥 Featured Projects
+# 📌 For Recruiters
 
-### 📅 Student Scheduler (WIP)
-- ML-based scheduler that adapts to burnout, stress, and workload
-- Uses user input + scheduling constraints to optimize study planning
+## AI / Machine Learning
 
-### 📊 Group Equivariant Convolution Neural Network Research
-Contributed to a research project focused on applying machine learning techniques to analyze and visualize complex system behavior.
+### [ECE-447 Research Project](https://github.com/Robeen3242/ECE-447-Research)
+Research project focused on Group Equivariant Convolutional Neural Networks (GCNNs), CNNs, and geometric deep learning techniques.
 
-- Built data processing pipelines and experimented with ML models to uncover patterns in engineering data
-- Created heatmap-based visualizations to interpret model outputs and feature relationships
-- Investigated how different approaches affect model performance and reliability
-- Collaborated with a team on an ongoing research paper documenting findings and insights
+- Contributed to experimentation and implementation of CNN, GCNN, and GCN architectures
+- Developed visualization tools for interpreting learned filters and model behavior
+- Proposed and tested architectural and training modifications to improve performance
+- Collaborated on research workflows, experimentation strategy, and analysis for an ongoing paper
 
-This experience helped bridge the gap between theoretical machine learning and real-world applications, with a focus on interpretability and practical impact.
+**Tech:** Python, PyTorch, Deep Learning, Computer Vision
 
 ---
 
-## 📈 Currently Learning
-- Full-stack development (React + backend)
-- Deploying ML models
-- Cloud (Azure)
+### [Mushroom Classification Project](https://github.com/Robeen3242/mushrooms)
+Machine learning classification project exploring preprocessing, feature engineering, and predictive modeling techniques.
+
+**Tech:** Python, scikit-learn, Pandas
 
 ---
 
-## 📫 Contact
-- LinkedIn: www.linkedin.com/in/robin-liu-22ba9a310
+## Full Stack Development
+
+### [Student Scheduler App](https://github.com/Robeen3242/student-scheduler) *(Work in Progress)*
+Full-stack scheduling and productivity application designed to reduce decision fatigue and help students manage workload and burnout.
+
+Planned features include:
+- Calendar-based task and event management
+- Daily wellness and stress tracking
+- Schedule and syllabus ingestion from uploaded files
+- ML-assisted workload balancing and burnout prediction
+
+**Tech:** React, TypeScript, FastAPI, Python
+
+---
+
+## Data Analysis / Databases
+
+### [League of Legends Item Viability Analyzer](https://github.com/Robeen3242/<repo-name>)
+Data analysis project exploring in-game item effectiveness, balance trends, and gameplay statistics.
+
+**Tech:** Python/R, Data Analysis, Visualization
+
+---
+
+### [SQL Database Project](https://github.com/Robeen3242/<sql-repo>)
+Database-focused project involving relational schema design, SQL querying, joins, aggregations, and data analysis workflows.
+
+**Tech:** SQL, Relational Databases
+
+---
+
+# 📈 Currently Learning
+
+- Full-stack application architecture
+- ML deployment workflows
+- Cloud infrastructure and services
+- AI-assisted productivity systems
+
+---
+
+# 📫 Contact
+
+- LinkedIn: [Robin Liu](https://www.linkedin.com/in/robin-liu-22ba9a310)
 - Email: robin9@ualberta.ca
