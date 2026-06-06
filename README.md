@@ -76,11 +76,11 @@ Machine learning classification project exploring preprocessing, feature enginee
 
 ## 📊 Data Analysis / Databases
 
-### 🎮 [League of Legends Item Viability Analyzer](https://github.com/Robeen3242/Projects/Projects/LoL Item Viability Analyzer)
+### 🎮 [League of Legends Item Viability Analyzer]([https://github.com/Robeen3242/Projects/Projects/LoL Item Viability Analyzer](https://github.com/Robeen3242/Projects/tree/main/LoL%20Item%20Viability%20Analyzer))
 
 Data analysis project exploring in-game item effectiveness, balance trends, and gameplay statistics.
 
-### 🗄️ [SQL Database Project](https://github.com/Robeen3242/Projects/Projects/SQL Shopping Center 2025)
+### 🗄️ [SQL Database Project]([https://github.com/Robeen3242/Projects/SQL Shopping Center 2025](https://github.com/Robeen3242/Projects/tree/main/SQL%20Shopping%20Center%202025))
 
 Database-focused project involving relational schema design, SQL querying, joins, aggregations, and data analysis workflows.
 
