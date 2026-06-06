@@ -8,7 +8,7 @@
 
 # 🚀 Featured Project
 
-## 📅 Student Scheduler Platform
+## 📅 [Student Scheduler Platform](https://github.com/Robeen3242/student-scheduler)
 
 A full-stack productivity platform designed to help students manage workload, scheduling, stress, and burnout.
 
@@ -30,8 +30,6 @@ The project combines software engineering, data collection, analytics, and machi
 * 🧠 Intelligent scheduling recommendations
 
 **Tech:** React • TypeScript • FastAPI • Python
-
-**Repository:** [Student Scheduler App](https://github.com/Robeen3242/student-scheduler)
 
 ---
 
@@ -59,7 +57,7 @@ Git • GitHub • Azure • Linux
 
 ## 🤖 AI / Machine Learning
 
-### 🧠 ECE-447 Research Project
+### 🧠 [ECE-447 Research Project](https://github.com/Robeen3242/ECE-447-Research)
 
 Research project focused on Group Equivariant Convolutional Neural Networks (GCNNs), CNNs, and geometric deep learning techniques.
 
@@ -70,7 +68,7 @@ Research project focused on Group Equivariant Convolutional Neural Networks (GCN
 
 **Tech:** Python, PyTorch, Deep Learning, Computer Vision
 
-### 🍄 Mushroom Classification Project
+### 🍄 [Mushroom Classification Project](https://github.com/Robeen3242/mushrooms)
 
 Machine learning classification project exploring preprocessing, feature engineering, and predictive modeling techniques.
 
@@ -78,11 +76,11 @@ Machine learning classification project exploring preprocessing, feature enginee
 
 ## 📊 Data Analysis / Databases
 
-### 🎮 League of Legends Item Viability Analyzer
+### 🎮 [League of Legends Item Viability Analyzer](https://github.com/Robeen3242/Projects/Projects/LoL Item Viability Analyzer)
 
 Data analysis project exploring in-game item effectiveness, balance trends, and gameplay statistics.
 
-### 🗄️ SQL Database Project
+### 🗄️ [SQL Database Project](https://github.com/Robeen3242/Projects/Projects/SQL Shopping Center 2025)
 
 Database-focused project involving relational schema design, SQL querying, joins, aggregations, and data analysis workflows.
 
