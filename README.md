@@ -61,7 +61,9 @@ Git • GitHub • Docker • Linux
 
 ---
 
-# 🎯 For Recruiters Looking for experience in a specific area? Here are the projects most relevant to the role you're hiring for. 
+# 🎯 For Recruiters 
+
+Looking for experience in a specific area? Here are the projects most relevant to the role you're hiring for. 
 
 ## 🤖 Machine Learning 
 - [ECE-447 Research Project](https://github.com/Robeen3242/ECE-447-Research)
