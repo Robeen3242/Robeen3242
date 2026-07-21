@@ -5,6 +5,14 @@
 💡 Interested in Machine Learning, AI systems, data analysis, and full-stack development.
 
 ---
+## Quick Links
+
+- [For Recruiters](#-for-recruiters)
+- [Featured Project](#-featured-project)
+- [Tech Stack](#️-tech-stack)
+- [Additional Projects](#-additional-projects)
+- [Currently Learning](#-currently-learning)
+- [Contact](#-contact)
 
 # 🚀 Featured Project
 
