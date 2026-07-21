@@ -49,9 +49,24 @@ React • Vite • FastAPI • Node.js
 
 ## 🧰 Tools
 
-Git • GitHub • Azure • Linux
+Git • GitHub • Docker • Linux
 
 ---
+
+# 🎯 For Recruiters Looking for experience in a specific area? Here are the projects most relevant to the role you're hiring for. 
+
+## 🤖 Machine Learning 
+- [ECE-447 Research Project](https://github.com/Robeen3242/ECE-447-Research)
+- [Mushrooms](https://github.com/Robeen3242/mushrooms)
+
+## 📊 Data Analysis 
+- [Student Scheduler](https://github.com/Robeen3242/Student-Scheduler/tree/main/Models%20and%20Motivations)
+- [LoL Item Viability Analyzer](https://github.com/Robeen3242/Projects/tree/main/Projects/LoL%20Item%20Viability%20Analyzer)
+- [Shopping Center](https://github.com/Robeen3242/Projects/tree/main/Projects/SQL%20Shopping%20Center%202025)
+
+## 💻 Full-Stack Development 
+- [Student Scheduler](https://github.com/Robeen3242/Student-Scheduler)
+- [LoL Build Logger](https://github.com/Robeen3242/Projects/tree/main/Projects/League%20of%20Legends%20Build%20Logger)
 
 # 📌 Additional Projects
 
