@@ -18,26 +18,32 @@
 
 ## 📅 [Student Scheduler Platform](https://github.com/Robeen3242/student-scheduler)
 
-A full-stack productivity platform designed to help students manage workload, scheduling, stress, and burnout.
+A full-stack productivity and analytics platform designed to help students manage academic workload while tracking stress, energy, mood, and burnout.
 
-The project combines software engineering, data collection, analytics, and machine learning to better understand how academic workload impacts student well-being.
+Student Scheduler combines **software engineering, data collection, feature engineering, and machine learning** to explore the relationship between academic workload and student well-being.
 
-### Current Features
+### V1 Features
 
 * 📆 Calendar-based scheduling and task management
 * ✅ Recurring and one-time task tracking
-* 📊 Daily wellness metrics (stress, energy, mood, burnout)
-* 🔄 FastAPI backend for data collection and analytics
+* 📚 Course, assignment, and exam tracking
+* 📊 Daily wellness tracking for stress, energy, mood, sleep, and burnout
+* 🔄 FastAPI backend with persistent data storage
+* 🧹 Data preprocessing and feature engineering pipeline
+* 📈 Workload features based on upcoming tasks, exams, priorities, and historical wellness trends
+* 🧠 Weighted moving averages for longitudinal wellness metrics
+* 🤖 Burnout prediction using machine learning
+* 📊 Model comparison and evaluation
 
-### In Development
+### Future Development
 
-* 📈 Workload and productivity analytics
-* 🧹 Data pipeline for feature engineering
-* 🤖 Burnout prediction models
-* 📂 Schedule and syllabus ingestion
+* 📂 Automated schedule and syllabus ingestion
 * 🧠 Intelligent scheduling recommendations
+* 🔮 Personalized burnout forecasting
+* ☁️ Account-based cloud data persistence
 
-**Tech:** React • TypeScript • FastAPI • Python
+**Tech:** React • TypeScript • FastAPI • Python • Pandas • scikit-learn
+
 
 ---
 
